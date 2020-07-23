@@ -1,1 +1,2 @@
 This contains features for newfileA.txt.
+New content for newfileA.txt.
